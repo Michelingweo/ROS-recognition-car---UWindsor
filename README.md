@@ -6,4 +6,4 @@ A 2D-Mapping Car with Face obstacle Recognition and Marker Functions
 *This repository contains only the python scripts of this project*
 
 
-**Acknowledgement:** Thanks for the instruction of Prof. Chen and Jietang. This tiny project can not be completed without their patiently guidance. 
+**Acknowledgement:** Thanks for the instruction of Prof. Chen and Jie Tang of UWindsor. This tiny project can not be completed without their patiently guidance. 
